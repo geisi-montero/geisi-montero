@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&theme=cobalt" />
 </div>
 
-# ¡Hola! 👋
-
-## Mi nombre es Geisi Montero
+# ¡Hola! 👋, Soy Geisi Montero
 
 <table>
 <tr>
