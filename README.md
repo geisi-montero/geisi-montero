@@ -4,11 +4,11 @@
 
 # ¡Hola! 👋, Soy Geisi Montero
 
-## 👩‍💻 Acerca de mí
+##  Acerca de mí
 
 Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
 
----
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -35,7 +35,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -45,7 +45,6 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </div>
 
----
 
 ## 🌐 Contáctame
 
@@ -65,7 +64,6 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=16&fontColor=FFFFFF&color=193549" />
