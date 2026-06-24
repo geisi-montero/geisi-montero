@@ -2,15 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&theme=cobalt" />
 </div>
 
---- ¡Hola! 👋, Soy Geisi Montero
+# ¡Hola! 👋, Soy Geisi Montero
 
----  Acerca de mí
-
+Acerca de mí
+---
 Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
 
+---
 
-
---- 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -45,8 +45,9 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </div>
 
+---
 
----🌐 Contáctame
+## 🌐 Contáctame
 
 <div align="center">
 
@@ -64,7 +65,9 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </div>
 
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=16&fontColor=FFFFFF&color=193549" />
 </div>
+
