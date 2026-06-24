@@ -5,7 +5,7 @@
 
 # ¡Hola! 👋, Soy Geisi Montero
 
-## 👩‍💻 Acerca de mí
+## Acerca de mí
 
 Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
 
@@ -48,7 +48,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🌐 Contáctame
 
-<div align="center">
+<div align="Left">
 
 <a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
