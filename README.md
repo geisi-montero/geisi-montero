@@ -55,7 +55,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:geisilisbeth12@gmail.com">
+<a href="mailto:geisimontero.dev@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
 </a>
 
