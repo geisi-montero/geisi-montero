@@ -10,15 +10,10 @@
 <tr>
 <td width="60%" valign="top">
 
-## 👩‍💻 Acerca de mí
+##  Acerca de mí
 
-Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generan valor y contribuyen a mejorar la experiencia de los usuarios.
+Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
 
-✨ Siempre en constante aprendizaje.
-
-🚀 Interesada en el desarrollo web, aplicaciones de escritorio y soluciones tecnológicas innovadoras.
-
-💡 Disfruto transformar ideas en proyectos funcionales y de impacto.
 
 </td>
 
@@ -89,5 +84,5 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontColor=FFFFFF&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=16&fontColor=FFFFFF&theme=cobalt" />
 </div>
