@@ -1,13 +1,12 @@
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&color=0:0B0620,50:2E1065,100:4C1D95" />
 </div>
 
 # ¡Hola! 👋, Soy Geisi Montero
 
 ## Acerca de mí
 
-Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
+Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generan valor y contribuyen a mejorar la experiencia de los usuarios.
 
 ---
 
@@ -37,10 +36,12 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 </div>
 
 ---
+
 <div align="center">
 
-> **"Nunca dejes de imaginar lo que aún no existe."**  
-> — Ada Lovelace
+### 💡 Nunca dejes de imaginar lo que aún no existe.
+
+**— Ada Lovelace**
 
 </div>
 
@@ -48,7 +49,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🌐 Contáctame
 
-<div align="Left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
@@ -67,5 +68,5 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=14&fontColor=FFFFFF&color=193549" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=14&fontColor=FFFFFF&color=0:0B0620,50:2E1065,100:4C1D95" />
 </div>
