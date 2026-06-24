@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&theme=cobalt" />
 </div>
@@ -67,4 +67,4 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=18&fontColor=FFFFFF&theme=cobalt" />
 </div>
-```
+
