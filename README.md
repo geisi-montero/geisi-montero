@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&color=0:0B0620,50:2E1065,100:4C1D95" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&color=0:1A103D,50:5B21B6,100:A855F7" />
 </div>
 
 # ¡Hola! 👋, Soy Geisi Montero
@@ -68,5 +68,5 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=14&fontColor=FFFFFF&color=0:0B0620,50:2E1065,100:4C1D95" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=14&fontColor=FFFFFF&color=0:1A103D,50:5B21B6,100:A855F7" />
 </div>
