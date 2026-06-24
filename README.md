@@ -65,7 +65,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🌐 Contáctame
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
@@ -84,5 +84,5 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=16&fontColor=FFFFFF&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=16&fontColor=FFFFFF&color=193549" />
 </div>
