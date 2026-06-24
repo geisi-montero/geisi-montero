@@ -1,3 +1,4 @@
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
@@ -13,6 +14,10 @@
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<img data-importer="image" align="right" height="249" src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" alt="Whats-App-Image-2026-06-23-at-8-02-46-PM" border="0"></a>"  />
 
 ###
 
@@ -93,10 +98,3 @@
 </div>
 
 ###
-
-  
- 
-
-
-
-
