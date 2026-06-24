@@ -1,11 +1,12 @@
+```markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&theme=cobalt" />
 </div>
 
 # ¡Hola! 👋, Soy Geisi Montero
 
-Acerca de mí
----
+## 👩‍💻 Acerca de mí
+
 Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
 
 ---
@@ -37,13 +38,9 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ---
 
-<div align="center">
-
-### "Nunca dejes de imaginar lo que aún no existe."
-
-**— Ada Lovelace**
-
-</div>
+> **"Nunca dejes de imaginar lo que aún no existe."**
+>
+> — Ada Lovelace
 
 ---
 
@@ -68,6 +65,6 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=16&fontColor=FFFFFF&color=193549" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=18&fontColor=FFFFFF&theme=cobalt" />
 </div>
-
+```
