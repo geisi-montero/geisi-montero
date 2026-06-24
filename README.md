@@ -37,10 +37,13 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 </div>
 
 ---
+<div align="center">
 
-> **"Nunca dejes de imaginar lo que aún no existe."**
->
-> — Ada Lovelace
+### "Nunca dejes de imaginar lo que aún no existe."
+
+**— Ada Lovelace**
+
+</div>
 
 ---
 
@@ -65,6 +68,5 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=18&fontColor=FFFFFF&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=18&fontColor=FFFFFF&color=193549" />
 </div>
-
