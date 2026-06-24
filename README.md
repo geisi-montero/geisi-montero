@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -16,14 +16,14 @@
 
 ###
 
-<img data-importer="image" align="right" height="219" src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" alt="Whats-App-Image-2026-06-23-at-8-02-46-PM" border="0"></a>"  
+<img data-importer="image" align="right" height="219" src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" alt="Whats-App-Image-2026-06-23-at-8-02-46-PM" border="0"></a>"  />
 
 ###
 
 <h4 data-importer="text" align="left">Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.</h4>
 
 ###
-###
+
 <h2 data-importer="text" align="left">🛠️ Tecnologías y Herramientas</h2>
 
 ###
@@ -97,7 +97,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%20Gracias%20por%20visitar%20mi%20perfil%20%F0%9F%91%8B&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=%20%20%20%20&descSize=21&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%20Gracias%20por%20visitar%20mi%20perfil%20%F0%9F%91%8B&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&desc=%20%20%20%20&descSize=21&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
