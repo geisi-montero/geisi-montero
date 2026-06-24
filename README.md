@@ -23,7 +23,7 @@
 <h4 data-importer="text" align="left">Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.</h4>
 
 ###
-
+###
 <h2 data-importer="text" align="left">🛠️ Tecnologías y Herramientas</h2>
 
 ###
