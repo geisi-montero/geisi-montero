@@ -4,24 +4,9 @@
 
 # ¡Hola! 👋, Soy Geisi Montero
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-##  Acerca de mí
+## 👩‍💻 Acerca de mí
 
 Desarrolladora de Software apasionada por la tecnología, la resolución de problemas y la creación de soluciones innovadoras que generen valor y contribuyan a mejorar la experiencia de los usuarios.
-
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" width="290"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -54,8 +39,9 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 <div align="center">
 
-> **"Nunca dejes de imaginar lo que aún no existe."**  
-> — Ada Lovelace
+### "Nunca dejes de imaginar lo que aún no existe."
+
+**— Ada Lovelace**
 
 </div>
 
@@ -82,5 +68,5 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20👋&fontSize=16&fontColor=FFFFFF&color=193549" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=16&fontColor=FFFFFF&color=193549" />
 </div>
