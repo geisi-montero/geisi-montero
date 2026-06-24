@@ -16,7 +16,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="219" src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" alt="Whats-App-Image-2026-06-23-at-8-02-46-PM" border="0"></a>"  />
+<img data-importer="image" align="right" height="219" src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" alt="Whats-App-Image-2026-06-23-at-8-02-46-PM" border="0"></a>"  
 
 ###
 
