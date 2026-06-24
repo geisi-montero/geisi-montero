@@ -15,7 +15,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 <img src="https://i.ibb.co/Kj2Czg1w/Whats-App-Image-2026-06-23-at-8-02-46-PM.jpg" width="280"/>
 
