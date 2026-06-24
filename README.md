@@ -39,11 +39,8 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 ---
 <div align="center">
 
-<sub><i>"Nunca dejes de imaginar lo que aún no existe."</i></sub>
-
-<br>
-
-<sub><b>— Ada Lovelace</b></sub>
+> **"Nunca dejes de imaginar lo que aún no existe."**  
+> — Ada Lovelace
 
 </div>
 
