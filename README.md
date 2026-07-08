@@ -3,7 +3,11 @@
 </div>
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FFFFFF&center=false&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FFFFFF&center=false&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero;Bienvenido+a+mi+perfil+%F0%9F%9A%80">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=000000&center=false&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero;Bienvenido+a+mi+perfil+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=FFFFFF&center=false&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG">
+  </picture>
 </div>
 
 ## Acerca de mí
