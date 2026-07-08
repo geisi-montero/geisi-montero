@@ -2,8 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&theme=cobalt" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero" alt="Typing SVG" />
+<div align="Left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ## Acerca de mí
