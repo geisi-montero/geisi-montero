@@ -51,13 +51,14 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 <div align="Left">
 
-<a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:geisimontero.dev@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
-</a>
+<p align="Left">
+  <a href="[https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/geisi-familia-montero)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="180"/>
+  </a>
+  <a href="mailto:geisimontero.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="180"/>
+  </a>
+</p>
 
 </div>
 
