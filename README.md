@@ -51,7 +51,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🌐 Contáctame
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/>
   </a>
