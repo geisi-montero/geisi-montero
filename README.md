@@ -2,7 +2,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&theme=cobalt" />
 </div>
 
-# ¡Hola! 👋, Soy Geisi Montero
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+%F0%9F%91%8B+Soy+Geisi+Montero" alt="Typing SVG" />
+</div>
 
 ## Acerca de mí
 
@@ -54,7 +56,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/>
   </a>
   <a href="mailto:geisimontero.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="129"/>
   </a>
 </div>
 
