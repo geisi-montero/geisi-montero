@@ -14,7 +14,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="left">
+<div align="Center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3"/>
@@ -51,7 +51,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🌐 Contáctame
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/>
   </a>
