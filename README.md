@@ -14,7 +14,7 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 ## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3"/>
