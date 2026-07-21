@@ -57,10 +57,10 @@ Desarrolladora de Software apasionada por la tecnología, la resolución de prob
 
 <div align="left">
   <a href="https://www.linkedin.com/in/geisi-familia-montero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="130"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="100"/>
   </a>
   <a href="mailto:geisimontero.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="129"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="101"/>
   </a>
 </div>
 
