@@ -13,6 +13,7 @@
 ## Acerca de mí
 
 Desarrolladora de Software apasionada por la tecnología, la innovación y la creación de soluciones digitales que aporten valor. Me interesa desarrollar aplicaciones funcionales, modernas y bien estructuradas, prestando atención tanto a la calidad del código como a la experiencia del usuario. Disfruto asumir nuevos desafíos, explorar nuevas tecnologías y perfeccionar continuamente mis habilidades para crear software eficiente, intuitivo y de calidad.
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
